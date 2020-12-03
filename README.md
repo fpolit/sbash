@@ -1,4 +1,4 @@
-## Simple Python Interprete for bash
+## Simple Python Interpreter for bash
 This package enable you to run bash commands and scripts from Python.
 
 #### Installation
