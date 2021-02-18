@@ -24,7 +24,7 @@ In the next examples I show you how to use the syntaxis above.
     #output: 
     Thu Feb 18 12:50:07 AM -05 2021
 	
-    Bash.exec("Bash.exec("python --version")	
+    Bash.exec("python --version")	
     #output: 
     Python 3.9.1
 
