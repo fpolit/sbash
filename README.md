@@ -1,4 +1,4 @@
-## Simple Python Interprete for bash
+## Simple Python Interpreter for bash
 This package enable you to run bash commands and scripts from Python.
 
 #### Installation
@@ -50,8 +50,4 @@ In the next examples I show you how to use the syntaxis above.
     acpitz-acpi-0
     Adapter: ACPI interface
     temp1:        +45.0°C  
-
-
-	
-
 ```
